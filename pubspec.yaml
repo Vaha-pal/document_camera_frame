@@ -12,7 +12,7 @@ topics:
   - ocr
 
 environment:
-  sdk: ^3.8.1
+  sdk: ">=3.7.2 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
